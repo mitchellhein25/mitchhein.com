@@ -9,10 +9,10 @@ const Intro = () => {
           <div className="col-span-12 space-y-2.5">
             <div className="">
               <p className="text-gray-lite  dark:text-color-910 leading-7">
-              Hello! I'm Mitch, a software developer based in Bryan, Texas. From my roots in Iowa (Go Hawks!) to my current home in the Lone Star State, I've developed a passion for creating maintainable, scalable, and high-quality software that empowers businesses and users alike.
+              Hello! I&apos;m Mitch, a software developer based in Bryan, Texas. From my roots in Iowa (Go Hawks!) to my current home in the Lone Star State, I&apos;ve developed a passion for creating maintainable, scalable, and high-quality software that empowers businesses and users alike.
               </p>
               <p className="text-gray-lite leading-7 mt-2.5 dark:text-color-910">
-              When I'm not coding, I enjoy cheering on my favorite sports teams, spending quality time with my wife and family, and exploring the latest tech trends. With a tireless work ethic and an unquenchable thirst for learning, I'm always striving to make every day count.
+              When I&apos;m not coding, I enjoy cheering on my favorite sports teams, spending quality time with my wife and family, and exploring the latest tech trends. With a tireless work ethic and an unquenchable thirst for learning, I&apos;m always striving to make every day count.
               </p>
               <p className="text-gray-lite leading-7 mt-2.5 dark:text-color-910">
               Thank you for visiting my portfolio, and please feel free to reach out to me to learn more about my work or discuss potential collaborations.

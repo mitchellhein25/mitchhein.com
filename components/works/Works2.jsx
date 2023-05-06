@@ -136,7 +136,7 @@ const Works2 = () => {
               {singleData?.description}
             </p>
 
-            <a target="_blank" href={singleData?.link} className="dark:text-white underline text-2line font-normal text-[15px] sm:text-sm pb-5">
+            <a target="_blank" rel="noreferrer" href={singleData?.link} className="dark:text-white underline text-2line font-normal text-[15px] sm:text-sm pb-5">
               {singleData?.link}
             </a>
             
