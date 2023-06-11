@@ -7,7 +7,7 @@ module.exports = [
     bg: "#E9FAFF",
     client: "Personal Project",
     langages: "Javascript, MERN (MongoDB, Express, React, Node) stack along with Material UI, Redux, and Axios.",
-    link: "https://www.loom.com/embed/1ffe56e687d640c8bab4f0a7b9d67175",
+    link: "https://www.youtube.com/embed/wUC-pz49dm4",
     linkText: "Finance app",
     description:
       "In need of a finance application to suit my needs for my own budget and finance tracking, I decided to build my own. Utilized the MERN (MongoDB, Express, React, Node) along with Material UI styling, Redux state management, and the Axios HTTP client. The application implements simple authentication, tracks the user's net worth, budget, and expense trends over time, and enables manual expense, income, and account tracking with CRUD operations."      
@@ -33,7 +33,7 @@ module.exports = [
     bg: "#FFF0F0",
     client: "Personal/School Project",
     langages: "Javascript, React, Axios, and Bootstrap",
-    link: "https://www.loom.com/embed/70910fa412e745768d9e6b5428fc7a4c",
+    link: "https://www.youtube.com/embed/3HBPwsFA82s",
     linkText: "Rental search app",
     description:
       "This project was built for real estate investors to do a search on properties in an area and see a real time calculation of potential returns on their investment. Single Page application built with React, Axios, and Bootstrap. Integrated 2 external APIs, one built by a classmate to display Google Maps locations and the other to query public real estate data.",
